@@ -1,11 +1,11 @@
 {
-  "name": "editor-skeleton",
-  "author": "Team Vantage",
-  "description": "Replace this with a description of your editor.",
+  "name": "Forza Horizon 5 Mod",
+  "author": "Marto",
+  "description": "Edit balance, level, and unlocks",
   "version": "0.1.0",
   "vantage": {
-    "game": "Game Name",
-    "scid": "00000000-0000-0000-0000-000000000000",
+    "game": "Forza Horizon 5",
+    "scid": "d8890100-b864-45cd-b20e-62d40020e1b2",
     "thumbnailUrl": "https://i.imgur.com/hgdfCBd.png",
     "name": "Campaign Editor",
     "containerFilter": "savegame.svg",
